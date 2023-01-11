@@ -1,3 +1,1324 @@
-[
- { name: "123" }
-]
+{
+  "countries": [
+    {
+      "name": "Afghanistan",
+      "qualificationsAccepted": "Grade 12 Graduation Certificate",
+      "gradesRequired": "Minimum of 60% overall, and in most subjects. Expect minimum 60% in Mathematics, English and any other relevant subject to intended degree course (e.g. Physics for Engineering student)",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Albania",
+      "qualificationsAccepted": "Dëftesë Pjekurie (Secondary School Leaving Certificate) Diplomë e Maturës Shtetërore (Diploma of State Matura)",
+      "gradesRequired": "Minimum of 7 overall, no less than 6 in any subject. Expect 7 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Algeria",
+      "qualificationsAccepted": "Baccalauréat de l'Enseignement Secondaire",
+      "gradesRequired": "Minimum of 12 overall, minimum of 10 in all subjects. Expect 12 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Andorra",
+      "qualificationsAccepted": "Títol de Batxiller",
+      "gradesRequired": "Minimum of 7 overall, no less than 6 in any subject. Expect 7 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Angola",
+      "qualificationsAccepted": "Ensino Geral Certificado de Habilitações / Certificado de Habilitações Curso Pré-Universitário",
+      "gradesRequired": "Minimum of 12 overall, minimum of 10 in all subjects. Expect 12 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Anguilla",
+      "qualificationsAccepted": "Not listed on UK NARIC - British Overseas Territory",
+      "gradesRequired": "Not listed on UK NARIC",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Antigua & Barbuda",
+      "qualificationsAccepted": "Caribbean Examinations Council Secondary Education Certificate",
+      "gradesRequired": "Minimum of Grade IV (Four) overall, minimum of 5 A-C grades. Expect C in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "No"
+    },
+    {
+      "name": "Angertina",
+      "qualificationsAccepted": "Título de Bachiller",
+      "gradesRequired": "Minimum of 7 overall, no less than 6 in any subject. Expect 7 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Armenia",
+      "qualificationsAccepted": "Certificate of Secondary General Education Certificate of Unified Examination",
+      "gradesRequired": "Minimum of 12 overall, minimum of 10 in all subjects. Expect 12 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Aruba",
+      "qualificationsAccepted": "Not listed on UK NARIC - constituent of the Kingdom of the Netherlands",
+      "gradesRequired": "Not listed on UK NARIC",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Australia",
+      "qualificationsAccepted": "Year 10 / Year 12 Certificate Higher / School / Secondary Studies / Junior Secondary Studies / Junior Certificate Certificate of Education",
+      "gradesRequired": "Minimum of 5 A-C grades. Expect C in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "No"
+    },
+    {
+      "name": "Austria",
+      "qualificationsAccepted": "Reifeprüfung / Matura",
+      "gradesRequired": "Minimum of Bestanden (Pass) overall, minimum of 1-4 in all subjects. Expect 3 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Azerbaijan",
+      "qualificationsAccepted": "Orta Təhsil Haqqında Şəhadətnamə (Certificate of Complete Secondary Education)",
+      "gradesRequired": "Minimum of 3 overall, minimum of 3-5 in all subjects. Expect 3 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Bahamas",
+      "qualificationsAccepted": "Bahamas General Certificate of Secondary Education (BGCSE)",
+      "gradesRequired": "Minimum of 5 A-C grades. Expect C in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "No"
+    },
+    {
+      "name": "Bahrain",
+      "qualificationsAccepted": "General Secondary Education Certificate",
+      "gradesRequired": "Minimum of 60% overall, and in most subjects. Expect minimum 60% in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Bangladesh",
+      "qualificationsAccepted": "Higher Secondary Certificate (HSC) / Intermediate Certificate",
+      "gradesRequired": "Minimum of 5 A-C grades. Expect C in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Barbados",
+      "qualificationsAccepted": "Caribbean Examinations Council Secondary Education Certificate GCE O Level",
+      "gradesRequired": "Minimum of 5 A-C grades. Expect C in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "No"
+    },
+    {
+      "name": "Belarus",
+      "qualificationsAccepted": "Атэстат аб агульнай сярэдняй адукацыi (Certificate of General Secondary Education)",
+      "gradesRequired": "Minimum of 5 overall, no less than 6 in any subject. Expect 6 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Belgium",
+      "qualificationsAccepted": "Diploma van de hogere secundaire technische school Abschlusszeugnis der Oberstufe des Sekundarunterrichts Certificat d’enseignement secondaire supérieur Diplôme d’aptitude à accéder à l’enseignement supérieur",
+      "gradesRequired": "Minimum of 60% / 12 overall, and 60% / 10 in most subjects. Expect minimum 60% / 12 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Belize",
+      "qualificationsAccepted": "Caribbean Examinations Council Secondary Education Certificate GCE O Level",
+      "gradesRequired": "Minimum of 5 A-C grades. Expect C in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "No"
+    },
+    {
+      "name": "Benin",
+      "qualificationsAccepted": "Baccalauréat",
+      "gradesRequired": "Minimum of 12 overall, minimum of 10 in all subjects. Expect 12 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Bermuda",
+      "qualificationsAccepted": "Bermuda School Certificate",
+      "gradesRequired": "Minimum of 5 A-C grades. Expect C in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Bhutan",
+      "qualificationsAccepted": "Bhutan Certificate of Secondary Education (BCSE) Bhutan Higher Secondary Education Certificate Indian School Certificate (Year-12)",
+      "gradesRequired": "Minimum of 60% overall, and in most subjects. Expect minimum 60% in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Bolvia",
+      "qualificationsAccepted": "Diploma de Bachiller Científico-Humanístico Diploma de Bachiller Humanístico Pedagógico",
+      "gradesRequired": "Minimum of 60% overall, and in most subjects. Expect minimum 60% in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Bosnia & Herzegovina",
+      "qualificationsAccepted": "Diploma o položenom maturskom ispitu (RS) / Diploma o završenoj srednjoj školi (FiBH) (Secondary School Leaving Diploma)",
+      "gradesRequired": "Minimum of 3 overall, minimum of 3-5 in all subjects. Expect 3 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Botswana",
+      "qualificationsAccepted": "Botswana General Certificate of Secondary Education International General Certificate of Secondary Education (IGCSE)",
+      "gradesRequired": "Minimum of 5 A-C (9-4) grades. Expect C (4) in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Brazil",
+      "qualificationsAccepted": "Certificado de Conclusão de Ensino Médio Certificado de Conclusão de Segundo Grau",
+      "gradesRequired": "Minimum of 7 overall, no less than 6 in any subject. Expect 7 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "British Virgin Islands",
+      "qualificationsAccepted": "Caribbean Examinations Council Secondary Education Certificate",
+      "gradesRequired": "Minimum of 5 A-C grades. Expect C in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Brunei",
+      "qualificationsAccepted": "Brunei / Cambridge GCE O Level Brunei / Cambridge GCE A Level Matriculation",
+      "gradesRequired": "Minimum of 5 A-C grades. Expect C in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Bulgaria",
+      "qualificationsAccepted": "Диплома за Cредно Oбразование (Diploma of Completed Secondary Education)",
+      "gradesRequired": "Minimum of 3 overall, no less than 3 in any subject. Expect 4 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Burkina Faso",
+      "qualificationsAccepted": "Baccalauréat / Diplôme de Bachelier de l'Enseignement du Second Degré",
+      "gradesRequired": "Minimum of 12 overall, minimum of 10 in all subjects. Expect 12 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Burundi",
+      "qualificationsAccepted": "Diplôme des Humanités Complètes",
+      "gradesRequired": "Minimum of 60% overall, and in most subjects. Expect minimum 60% in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Cambodia",
+      "qualificationsAccepted": "Diploma of Upper Secondary Education",
+      "gradesRequired": "Minimum of 5 A-C grades. Expect C in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Cameroon",
+      "qualificationsAccepted": "Baccalauréat Certificat de Probation GCE O Level GCE A Level",
+      "gradesRequired": "Minimum of 5 A-C grades, or 12 overall, with minimum of 10 in all subjects. Expect C or 12 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Canada",
+      "qualificationsAccepted": "High School (Graduation) Diploma Certificate of High School Achievement / Graduation General Education Development Test (GED) - as a supplementary qualification",
+      "gradesRequired": "Minimum of 5 A-C grades, or minimum 60% in all subjects. Expect C / 60% in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "No"
+    },
+    {
+      "name": "Cape Verde",
+      "qualificationsAccepted": "Certificado de Habiltações Literárias 3°Ciclo",
+      "gradesRequired": "Minimum of 12 overall, minimum of 10 in all subjects. Expect 12 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Caribbean Netherlands (Bonaire / St Eustatius / Saba)",
+      "qualificationsAccepted": "Caribbean Examinations Council Secondary Education Certificate",
+      "gradesRequired": "Minimum of 5 A-C grades. Expect C in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Cayman Islands",
+      "qualificationsAccepted": "Caribbean Examinations Council Secondary Education Certificate",
+      "gradesRequired": "Minimum of 5 A-C grades. Expect C in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Central African Republic",
+      "qualificationsAccepted": "Baccalauréat Diplôme de Technicien d'Agriculture Tropical",
+      "gradesRequired": "Minimum of 12 overall, minimum of 10 in all subjects. Expect 12 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Chad",
+      "qualificationsAccepted": "Baccalauréat",
+      "gradesRequired": "Minimum of 12 overall, minimum of 10 in all subjects. Expect 12 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Chile",
+      "qualificationsAccepted": "Licencia de Educación / Enseñanza Media",
+      "gradesRequired": "Minimum of 4 overall, no less than 4 in any subject. Expect 4 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "China",
+      "qualificationsAccepted": "Senior Secondary School Graduation Certificate Chinese University / College Entrance Examination (Gaokao)",
+      "gradesRequired": "Minimum of 5 A-C grades, or 60% in all subjects. Expect C / 60% in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Colombia",
+      "qualificationsAccepted": "Bachiller Académico",
+      "gradesRequired": "Minimum of Pass (Desempeño bajo) in all subjects. Expect Pass (Desempeño bajo) in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Comoros",
+      "qualificationsAccepted": "Baccalauréat de l'Enseignement du Second Degré",
+      "gradesRequired": "Minimum of 12 overall, minimum of 10 in all subjects. Expect 12 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Congo",
+      "qualificationsAccepted": "Diplôme de Bachelier de l'Enseignement du Second Degré",
+      "gradesRequired": "Minimum of 12 overall, minimum of 10 in all subjects. Expect 12 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Colombia",
+      "qualificationsAccepted": "Bachiller Académico",
+      "gradesRequired": "Minimum of Pass (Desempeño bajo) in all subjects. Expect Pass (Desempeño bajo) in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Costa Rica",
+      "qualificationsAccepted": "Bachiller en la Enseñanza Media",
+      "gradesRequired": "Minimum of 65% overall, and in most subjects. Expect minimum 65% in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Cote d’Ivoire (Ivory Coast)",
+      "qualificationsAccepted": "Baccalauréat Diplôme de Bachelier de l'Enseignement du Second Degré",
+      "gradesRequired": "Minimum of 12 overall, minimum of 10 in all subjects. Expect 12 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Croatia",
+      "qualificationsAccepted": "Svjedodžba o Maturi (Matura Certificate)",
+      "gradesRequired": "Minimum of 3 overall, no less than 3 in any subject. Expect 3 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Cuba",
+      "qualificationsAccepted": "Título de Bachiller",
+      "gradesRequired": "Minimum of 3 overall, no less than 3 in any subject. Expect 3 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Curaçao",
+      "qualificationsAccepted": "Not listed on UK NARIC - constituent of the Kingdom of the Netherlands",
+      "gradesRequired": "Not listed on UK NARIC",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Cyprus",
+      "qualificationsAccepted": "Απολυτήριο Λυκείου (Upper Secondary School Leaving Certificate)",
+      "gradesRequired": "Minimum of 12 / 60% overall, minimum of 10 / 50% in all subjects. Expect 12 / 60% in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Cyprus (Turkish Republic)",
+      "qualificationsAccepted": "Lise Bitirme Diplomasi",
+      "gradesRequired": "Minimum of 6 overall, minimum of 5 in all subjects. Expect 6 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Czech Republic",
+      "qualificationsAccepted": "Vysvědčení o maturitní zkoušce (Secondary School Leaving Certificate)",
+      "gradesRequired": "Minimum of 3 overall, no less than 4 in any subject. Expect 3 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Democratic Republic of Congo (DRC)",
+      "qualificationsAccepted": "Diplôme d'État d'Études Secondaires du Cycle Long",
+      "gradesRequired": "Minimum of 60% overall, no less than 50% in any subject. Expect 60% in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Denmark",
+      "qualificationsAccepted": "Bevis for Højere Forberedelseseksamen (HF) (Higher Preparatory Examination Certificate), Bevis for Studentereksamen (STX) (Secondary Education Graduation Certificate), Folkeskolens 10. Klasseprøve (Class 10 Advanced Leaving Examination)",
+      "gradesRequired": "Minimum of 7 overall, minimum of 4 in all subjects. Expect 7 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Djibouti",
+      "qualificationsAccepted": "Baccalauréat Général",
+      "gradesRequired": "Minimum of 12 overall, minimum of 10 in all subjects. Expect 12 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Dominica",
+      "qualificationsAccepted": "Caribbean Examinations Council Secondary Education Certificate GCE O Level",
+      "gradesRequired": "Minimum of 5 A-C (9-4) grades. Expect C (4) in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "No"
+    },
+    {
+      "name": "Dominican Republic",
+      "qualificationsAccepted": "Bachillerato",
+      "gradesRequired": "Minimum of 5 A-C grades or 70% overall. Expect C / 70% in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Egypt",
+      "qualificationsAccepted": "Secondary Education Certificate of Al-Azhar Certificate of General Secondary Education",
+      "gradesRequired": "Minimum of 60% overall, minimum of 50% in all subjects. Expect 60% in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "El Salvador",
+      "qualificationsAccepted": "Título de Bachiller (academic)",
+      "gradesRequired": "Minimum of 6 overall, minimum of 6 in all subjects. Expect 7 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Equatorial Guinea",
+      "qualificationsAccepted": "Título de Graduado de Educación Secundaria General / Bachillerato / Bachillerato Superior / Reválida de Bachillerato Superior Tarjeta de Madurez Selectividad - as a supplementary qualification",
+      "gradesRequired": "Minimum of 7 overall, minimum of 5 in all subjects. Expect 7 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Eritrea",
+      "qualificationsAccepted": "Eritrean Secondary Education Certificate Examination",
+      "gradesRequired": "Minimum of 5 A-C grades. Expect C in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Estonia",
+      "qualificationsAccepted": "Gümnaasiumi lõputunnistus (Secondary School Leaving Certificate), Gümnaasiumi lõputunnistus with the Riigieksamitunnistus (Secondary School Leaving Certificate with the State Examination Certificate), Keskkooli lõputunnistus (Secondary School Leaving Certificate)",
+      "gradesRequired": "Minimum of 3 overall, minimum of 3 in all subjects. Expect 4 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Eswatini (formally Swaziland)",
+      "qualificationsAccepted": "International General Certificate of Secondary Education (IGCSEs) Swaziland General Certificate of Secondary Education",
+      "gradesRequired": "Minimum of 5 A-C (9-4) grades. Expect C (4) in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Ethiopia",
+      "qualificationsAccepted": "Ethiopian Higher Education Entrance Qualification Certificate The Ethiopian University Entrance Examination Certificate",
+      "gradesRequired": "Minimum of 5 A-C grades. Expect C in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Falkland Islands",
+      "qualificationsAccepted": "Not listed on UK NARIC - British Overseas Territory",
+      "gradesRequired": "Not listed on UK NARIC",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Fiji",
+      "qualificationsAccepted": "Fiji School Leaving Certificate (Certificate of Attainment) Fiji Year 13 Certificate",
+      "gradesRequired": "Minimum of 60% overall, minimum of 50% in all subjects. Expect 60% in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Finland",
+      "qualificationsAccepted": "Ylioppilastutkinto / Studentexamen (Matriculation Examination)",
+      "gradesRequired": "Minimum of 7 overall, minimum of 5 in all subjects. Expect 7 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "France",
+      "qualificationsAccepted": "Diplôme du Baccalauréat Général, Diplôme d’accès aux études universitaires (DAEU), Option Internationale du Baccalauréat",
+      "gradesRequired": "Minimum of 12 overall, minimum of 10 in all subjects. Expect 12 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Gabon",
+      "qualificationsAccepted": "Baccalauréat",
+      "gradesRequired": "Minimum of 12 overall, minimum of 10 in all subjects. Expect 12 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Georgia",
+      "qualificationsAccepted": "სრული ზოგადი განათლების ატესტატი - Sashualo Ganatlebis Atestasi (Secondary School Leaving Certificate)",
+      "gradesRequired": "Minimum of 3 / 6  / C overall, minimum of 3 /6 / C in all subjects. Expect 2 / 7 / C in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Germany",
+      "qualificationsAccepted": "Hauptschulabschluss (Year 10) Realschulabschluss / Mittlere Reife / Mittlerer Schulabschluss / Erweiterter Realschulabschluss / Fachoberschulreife / Sekundarabschluss 1 Zeugnis der Allgemeinen Hochschulreife / Abitur",
+      "gradesRequired": "Minimum of 3 overall, minimum of 4 in all subjects. Expect 3 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Ghana",
+      "qualificationsAccepted": "West African Senior School Certificate GCE A-Level",
+      "gradesRequired": "Minimum of 5 A1 – C6 grades, to include Mathematics and English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Gibraltar",
+      "qualificationsAccepted": "General Certificate of Secondary Education (GCSE), GCE A-Level",
+      "gradesRequired": "Minimum of 5 A-C (9-4) grades. Expect C (4) in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Greece",
+      "qualificationsAccepted": "ΑΠΟΛΥΤΗΡΙΟ ΓΕΝΙΚΟΥ ΛΥΚΕΙΟΥ / ΑΠΟΛΥΤΗΡΙΟ ΕΝΙΑΙΟΥ ΛΥΚΕΙΟΥ (Upper Secondary School (Lykeio) Leaving Certificate)",
+      "gradesRequired": "Minimum of 13 overall, minimum of 10 in all subjects. Expect 13 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Greenland",
+      "qualificationsAccepted": "General Certificate of Secondary Education (GCSE), GCE A-Level",
+      "gradesRequired": "Minimum of 5 A-C (9-4) grades. Expect C (4) in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Grenada",
+      "qualificationsAccepted": "Caribbean Secondary Education Certificate (CSEC) GCE O-Level GCE A-Level",
+      "gradesRequired": "Minimum of 5 A-C (9-4) grades. Expect C (4) in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Guatemala",
+      "qualificationsAccepted": "Bachillerato",
+      "gradesRequired": "Minimum of 70% overall, minimum 60% in all subjects. Expect 70% in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Guinea",
+      "qualificationsAccepted": "Baccalauréat 1ère partie Baccalauréat Unique / Baccalauréat 2ème partie",
+      "gradesRequired": "Minimum of 12 overall, minimum of 10 in all subjects. Expect 12 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "qualificationsAccepted": "Certidão - 11a Classe do Ensino Secundário (Year 11 School Completion Certificate) Certificado do Ensino Secundário",
+      "gradesRequired": "Minimum of 12 overall, minimum of 10 in all subjects. Expect 12 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Guyana",
+      "qualificationsAccepted": "Caribbean Examinations Council Secondary Education Certificate",
+      "gradesRequired": "Minimum of Grade IV (Four) overall, minimum of 5 A-C grades. Expect C in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Haiti",
+      "qualificationsAccepted": "Baccalauréat (reformed system) Baccalauréat II (Philosophie) Diplôme d'Enseignement Secondaire",
+      "gradesRequired": "Minimum of 60% / 6 overall, minimum 50% / 5 in all subjects. Expect 60% / 6 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Holy See / Vatican City",
+      "qualificationsAccepted": "CDiploma in Scienze Religiose",
+      "gradesRequired": "Minimum of 7/ 20/60/70 overall, minimum 6/18/55/60 in all subjects. Expect 7/ 20/60/70  in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Guyana",
+      "qualificationsAccepted": "Caribbean Examinations Council Secondary Education Certificate",
+      "gradesRequired": "Minimum of Grade IV (Four) overall, minimum of 5 A-C grades. Expect C in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Honduras",
+      "qualificationsAccepted": "Bachillerato",
+      "gradesRequired": "Minimum of 70% overall, minimum 60% in all subjects. Expect 70% in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Hong Kong",
+      "qualificationsAccepted": "Yi Jin Diploma Hong Kong Certificate of Education Examination (HKCEE) Hong Kong Diploma of Secondary Education (HKDSE) Hong Kong Advanced Level Examination (HKALE) - Advanced Level Hong Kong Advanced Level Examination (HKALE) - Advanced Supplementary Level",
+      "gradesRequired": "Minimum of 3/C/70%  overall, minimum 3/C/60% in all subjects. Expect 3/C/70% in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Hungary",
+      "qualificationsAccepted": "Érettségi Bizonyítvány (Secondary Education Graduation Certificate), Intermediate Maturity Examination, Advanced Maturity Examination",
+      "gradesRequired": "Minimum of 3 overall, minimum of 2 in all subjects. Expect 3 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Iceland",
+      "qualificationsAccepted": "Lokaprof af hönnunarbraut (Certificate of Graduation), Stúdentspróf (from Gymnasium) (Matriculation Certificate)",
+      "gradesRequired": "Minimum of 7 overall, minimum of 5 in all subjects. Expect 7 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "India",
+      "qualificationsAccepted": "All India Secondary School Examination All India Senior School Certificate Examination Higher Secondary Certificate / Standard 12 Indian Certificate of Secondary Education Examination Indian School Certificate (Year 12)",
+      "gradesRequired": "Minimum of 5 A-C  grades (50%+). Expect C (50%+) in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Indosnesia",
+      "qualificationsAccepted": "Ijazah - Sekolah Menengah Atas/Madrasah Aliyah (SMA/MA) (Certificate of Graduation from Academic/Islamic Secondary School)",
+      "gradesRequired": "Minimum of 70% overall, minimum of 56% in all subjects. Expect 65% in Mathematics, English and any other relevant subject to intended degree course ",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Iran",
+      "qualificationsAccepted": "High School Diploma Pre-University Certificate",
+      "gradesRequired": "Minimum of 12 overall, minimum of 10 in all subjects. Expect 12 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Iraq",
+      "qualificationsAccepted": "Certificate of Preparatory Education / Secondary School Certificate / Sixth Form Baccalaureate",
+      "gradesRequired": "Minimum of 70% overall, minimum of 50% in all subjects. Expect 65% in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Ireland",
+      "qualificationsAccepted": "Leaving Certificate (Standard or Higher Level)",
+      "gradesRequired": "Minimum of 5 A-C / H1-H5 grades. Expect C / H5 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Israel",
+      "qualificationsAccepted": "Matriculation Certificate High School Completion Diploma",
+      "gradesRequired": "Minimum of 75% overall, minimum of 55% in all subjects. Expect 65% in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Italy",
+      "qualificationsAccepted": "Diploma di Esame di Stato",
+      "gradesRequired": "Minimum of 60% overall. Expect 60% in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Jamaica",
+      "qualificationsAccepted": "Caribbean Examinations Council Secondary Education Certificate",
+      "gradesRequired": "Minimum of Grade IV (Four) overall, minimum of 5 A-C grades. Expect C in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "No"
+    },
+    {
+      "name": "Japan",
+      "qualificationsAccepted": "Upper Secondary School Leaving Certificate",
+      "gradesRequired": "Minimum of 3 overall, minimum of 2 in all subjects. Expect 3 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Jordan",
+      "qualificationsAccepted": "Certificate of General Secondary Education",
+      "gradesRequired": "Minimum of 60% overall, minimum of 50% in all subjects. Expect 60% in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Kazakhstan",
+      "qualificationsAccepted": "Oрта білім туралы аттестат (Certificate of Completed Secondary Education)",
+      "gradesRequired": "Minimum of 4 overall, minimum of 3 in all subjects. Expect 4 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Kenya",
+      "qualificationsAccepted": "Kenya Certificate of Secondary Education (KCSE)",
+      "gradesRequired": "Minimum of 5 A-C grades. Expect C in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Kiribati",
+      "qualificationsAccepted": "Kiribati Senior Secondary Certificate (KSSC) South Pacific Form Seven Certificate",
+      "gradesRequired": "Minimum of 5 A-C grades, or minimum 4 overall, with 5 in all subjects. Expect C/4 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Kosovo",
+      "qualificationsAccepted": "Diplomë për Kryerjen e Shkollës së Mesme të Lartë (Diploma for High School Graduation)",
+      "gradesRequired": "Minimum of 3 overall, minimum of 2 in all subjects. Expect 3 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Kuwait",
+      "qualificationsAccepted": "Shahadat Al-Thanawaya Al-Aama - General Secondary Education Certificate",
+      "gradesRequired": "Minimum of 5 A-C grades. Expect C in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Kyrgyzstan",
+      "qualificationsAccepted": "Жалпы орто билим туралуу аттестат / Аттестат о среднем (полном) образовании (Certificate of Completed Secondary Education)",
+      "gradesRequired": "Minimum of 4 overall, minimum of 3 in all subjects. Expect 4 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Laos",
+      "qualificationsAccepted": "Baccalauréat (Upper Secondary School Leaving Certificate)",
+      "gradesRequired": "Minimum of 5 A-C grades (2.0+). Expect C  (2.5+) in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Latvia",
+      "qualificationsAccepted": "Atestāts par vispārējo vidējo izglītību (Certificate of General Secondary Education)",
+      "gradesRequired": "Minimum of 60% overall, minimum of 50% in all subjects. Expect 60% in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Lebanon",
+      "qualificationsAccepted": "Baccalauréat Libanais - General Secondary Certificate",
+      "gradesRequired": "Minimum of 60%/12 overall, minimum of 50%/10 in all subjects. Expect 60%/12 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Lesotho",
+      "qualificationsAccepted": "Cambridge Overseas School Certificate",
+      "gradesRequired": "Minimum of 5 overall, minimum of 8 in all subjects. Expect 5 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Liberia",
+      "qualificationsAccepted": "Senior School Certificate",
+      "gradesRequired": "Minimum of 5 overall, minimum of 8 in all subjects. Expect 5 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Libya",
+      "qualificationsAccepted": "Secondary Education Certificate",
+      "gradesRequired": "Minimum of 60% overall, minimum of 50% in all subjects. Expect 60% in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Liechtenstein",
+      "qualificationsAccepted": "Matura",
+      "gradesRequired": "Minimum of 5 overall, minimum of 4 in all subjects. Expect 5 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Lithuania",
+      "qualificationsAccepted": "Brandos Atestatas (Secondary School Leaving Certificate)",
+      "gradesRequired": "Minimum of 8 overall, minimum of 6 in all subjects. Expect 7 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Luxembourg",
+      "qualificationsAccepted": "Certificat de fin d’études moyennes, Diplôme de fin d’études secondaires",
+      "gradesRequired": "Minimum of 40 overall, minimum of 30 in all subjects. Expect 40 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Macau",
+      "qualificationsAccepted": "Cambridge Overseas Higher School Certificate (COHSC) / GCE Advanced Level Cambridge Overseas School Certificate (COSC) / GCE O Level Certificate of Higher Secondary Education Ensino Secundário Complementar",
+      "gradesRequired": "Minimum of 5 9-4/A-C  (5+) grades. Expect 4/C (5+) in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Madagascar",
+      "qualificationsAccepted": "Baccalauréat de l'Enseignement du Second Degré",
+      "gradesRequired": "Minimum of 12 overall, minimum of 10 in all subjects. Expect 12 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Malawi",
+      "qualificationsAccepted": "Cambridge Overseas Higher School Certificate (COHSC) Malawi School Certificate of Education",
+      "gradesRequired": "Minimum of 5 overall, minimum of 8 in all subjects. Expect 5 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Malaysia",
+      "qualificationsAccepted": "SPM (Sijil Pelajaran Malaysia) (Malaysia Certificate of Education) UEC (Unified Examination Certificate) Senior Middle Level",
+      "gradesRequired": "Minimum of 5 A-C (6+) grades. Expect C (6+) in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Maldives",
+      "qualificationsAccepted": "UCLES O level / Secondary School Certificate (SSC) UCLES A level / Higher Secondary School Certificate (HSC)",
+      "gradesRequired": "Minimum of 5 A-C (5+) grades. Expect C (5+) in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Mali",
+      "qualificationsAccepted": "Baccalauréat",
+      "gradesRequired": "Minimum of 12 overall, minimum of 10 in all subjects. Expect 12 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Malta",
+      "qualificationsAccepted": "Secondary Education Certificate Matriculation Certificate Examination Advanced Matriculation",
+      "gradesRequired": "Minimum of 5 A-C grades. Expect C in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Marshall Islands",
+      "qualificationsAccepted": "High School Diploma",
+      "gradesRequired": "Minimum of 5 A-C grades. Expect C in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Mauritania",
+      "qualificationsAccepted": "Baccalauréat / Diplôme de Bachelier de I'Enseignement du Second Degré",
+      "gradesRequired": "Minimum of 12 overall, minimum of 10 in all subjects. Expect 12 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Mauritius",
+      "qualificationsAccepted": "Cambridge Higher School Certificate GCE O-Level",
+      "gradesRequired": "Minimum of 5 A-C (9-4) grades. Expect C (4) in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Mexico",
+      "qualificationsAccepted": "Título Académico de Bachiller / Diploma de Bachiller / Bachillerato General",
+      "gradesRequired": "Minimum of 7 overall, minimum of 6 in all subjects. Expect 7 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Micronesia",
+      "qualificationsAccepted": "High School Diploma",
+      "gradesRequired": "Minimum of 5 A-C (4.0-2.0) grades. Expect C (2.0) in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Moldova",
+      "qualificationsAccepted": "Atestat de Studii Medii de Cultură Generală (Certificate of Completed Secondary Education) Diplomă de Bacalaureat (Baccalaureate Diploma)",
+      "gradesRequired": "Minimum of 7 overall, minimum of 5 in all subjects. Expect 7 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Monaco",
+      "qualificationsAccepted": "Diplôme du Baccalauréat Général Diplôme d'accès aux études universitaires (DAEU) Option Internationale du Baccalauréat",
+      "gradesRequired": "Minimum of 12 overall, minimum of 10 in all subjects. Expect 12 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Mongolia",
+      "qualificationsAccepted": "Бурэн дунд боловсролын унэмлэх (Certificate of Complete Secondary Education)",
+      "gradesRequired": "Minimum of 5 A-C grades. Expect C in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Montenegro",
+      "qualificationsAccepted": "Maturski ispit / Diploma o završenoj srednjoj školi (Secondary School Leaving Diploma)",
+      "gradesRequired": "Minimum of 3 overall, minimum of 2 in all subjects. Expect 3 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Montserrat",
+      "qualificationsAccepted": "Not listed on UK NARIC - British Overseas Territory",
+      "gradesRequired": "Not listed on UK NARIC",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Morocco",
+      "qualificationsAccepted": "Diplôme du Baccalauréat",
+      "gradesRequired": "Minimum of 12 overall, minimum of 10 in all subjects. Expect 12 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Mozambique",
+      "qualificationsAccepted": "Certificado de Habilitações Literarias",
+      "gradesRequired": "Minimum of 12 overall, minimum of 10 in all subjects. Expect 12 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Myanmar (formally Burma)",
+      "qualificationsAccepted": "Basic Education High School Examination / Matriculation Examination",
+      "gradesRequired": "Minimum of 60% overall, minimum of 40% in all subjects. Expect 60% in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Namibia",
+      "qualificationsAccepted": "Cambridge Overseas Higher School Certificate (COHSC) / GCE A-Level Cambridge School Certificate (CSC) / Cambridge Overseas School Certificate (COSC) / GCE O-Level Namibia Senior Secondary Certificate (Higher Level) Namibia Senior Secondary Certificate (Ordinary Level) Senior Certificate",
+      "gradesRequired": "Minimum of 5 A-C  (1-3) grades. Expect C/3 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Nauru (Pleasant Island)",
+      "qualificationsAccepted": "See \"Micronesia\"",
+      "gradesRequired": "See \"Micronesia\"",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Nepal",
+      "qualificationsAccepted": "Higher Secondary Education Board Examination School Leaving Certificate Examination",
+      "gradesRequired": "Minimum of 60% overall, minimum of 45% in all subjects. Expect 60% in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "New Zealand",
+      "qualificationsAccepted": "National Certificate of Educational Achievement (NCEA) University Entrance Certificate with New Zealand Bursaries Certificate",
+      "gradesRequired": "Minimum of A (Achievement) overall, minimum of A in all subjects. Expect A in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "No"
+    },
+    {
+      "name": "Nicaragua",
+      "qualificationsAccepted": "Bachillerato en Humanidades / Bachillerato en Ciencias / Bachillerato de Educación Media / Bachiller",
+      "gradesRequired": "Minimum of 5 A-C (9-4) grades. Expect C (4) in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Niger",
+      "qualificationsAccepted": "Baccalauréat Diplôme de Bachelier de l'Enseignement du Second Degré",
+      "gradesRequired": "Minimum of 12 overall, minimum of 10 in all subjects. Expect 12 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Nigeria",
+      "qualificationsAccepted": "West African Senior School Certificate (as awarded by the West African Examination Council – WAEC)",
+      "gradesRequired": "Minimum of 5 A1 – C6 grades, to include Mathematics and English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "North Korea",
+      "qualificationsAccepted": "Not listed on UK NARIC",
+      "gradesRequired": "Not listed on UK NARIC",
+      "ielts": "Yes"
+    },
+    {
+      "name": "North Macedonia",
+      "qualificationsAccepted": "Диплома за положен завршен испит (Secondary School Leaving Diploma) Државната матура (Matura)",
+      "gradesRequired": "Minimum of 3 overall, minimum of 2 in all subjects. Expect 3 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Norway",
+      "qualificationsAccepted": "Vitnemål for Videregående Opplæring (Leaving Certificate from Upper Secondary School), Vitnemål fra Grunnskolen (Leaving Certificate from Lower Secondary School)",
+      "gradesRequired": "Minimum of 4 overall, minimum of 3 in all subjects. Expect 4 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Oman",
+      "qualificationsAccepted": "General Education Diplomal",
+      "gradesRequired": "Minimum of 5 A-C grades. Expect C in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Pakistan",
+      "qualificationsAccepted": "Intermediate / Higher Secondary Certificate",
+      "gradesRequired": "Minimum of 5 A1-C6 grades (50%+). Expect C6 (50%+) in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Palau",
+      "qualificationsAccepted": "High School Diploma",
+      "gradesRequired": "Minimum of 5 A-C grades. Expect C in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Palestine / Palestinian Territories",
+      "qualificationsAccepted": "General Secondary Education Certificate",
+      "gradesRequired": "Minimum of 70% overall, minimum of 60% in all subjects. Expect 60% in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Panama",
+      "qualificationsAccepted": "Bachillerato / Bachiller en [subject area] High School Graduation Diploma",
+      "gradesRequired": "Minimum of 4 overall, minimum of 3 in all subjects. Expect 4 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Papua New Guinea",
+      "qualificationsAccepted": "Higher School Certificate",
+      "gradesRequired": "Minimum of 5 A-C grades. Expect C in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Paraguay",
+      "qualificationsAccepted": "Título de Bachillerato Científico",
+      "gradesRequired": "Minimum of 6 overall, minimum of 5 in all subjects. Expect 5 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Peru",
+      "qualificationsAccepted": "Certificado de Educación Secundaria Común Completa",
+      "gradesRequired": "Minimum of 12 overall, minimum of 10 in all subjects. Expect 12 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Philippines",
+      "qualificationsAccepted": "High School Diploma (Grade 12) – Academic Track",
+      "gradesRequired": "Minimum of 75% (D – Developing) overall, minimum of 75% (D – Developing) in all subjects. Expect 80% (AP – Approaching Proficiency) in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Pitcairn Island",
+      "qualificationsAccepted": "Not listed on UK NARIC - British Overseas Territory",
+      "gradesRequired": "Not listed on UK NARIC",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Poland",
+      "qualificationsAccepted": "Świadectwo Dojrzałości (Certificate of Maturity), Świadectwo Ukończenia Liceum Ogólnokształcącego (Certificate of Completion from a General Lyceum)",
+      "gradesRequired": "Minimum of 60% overall, minimum of 50% in all subjects. Expect 60% in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Portugal",
+      "qualificationsAccepted": "Certificado de fim de Estudos Secundários / Certidão do Décimo Segundo Ano, Diploma Nível Secundário de Educação / Certificado Nível Secundário de Educação",
+      "gradesRequired": "Minimum of 12 overall, minimum of 10 in all subjects. Expect 12 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Puerto Rico",
+      "qualificationsAccepted": "High School Graduation Diploma",
+      "gradesRequired": "Minimum of 5 A-C grades. Expect C in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Qatar",
+      "qualificationsAccepted": "Qatar Senior School Certificate or Shahadat Al-Thanawaya Al-Aama General Secondary Education Certificate Religious Secondary School Certificate",
+      "gradesRequired": "Minimum of 60% (600) overall, minimum of 50% (500) in all subjects. Expect 60% (600) in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Romania",
+      "qualificationsAccepted": "Certificat de Absolvire a Ciclului Inferior al Liceului (Junior High School Graduation Certificate), Certificat de Absolvire a Liceului (High School Graduation Certificate), Diplomă / Certificat de Absolvire a Invăţământului Obligatoriu de 10 ani (Compulsory Education Graduation Diploma / Certificate (Grade 10)), Diplomă de Bacalaureat (Baccalaureate Diploma)",
+      "gradesRequired": "Minimum of 6 overall, minimum of 5 in all subjects. Expect 6 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Russia",
+      "qualificationsAccepted": "Аттестат о среднем (полном) общем образовании (Certificate of Secondary (Complete) General Education) Свидетельство о результатах ЕГЭ (единого государственного экзамена) (Certificate of Unified State Examination)|",
+      "gradesRequired": "Minimum of 4 overall, minimum of 3 in all subjects. Expect 4 in Mathematics, English and any other relevant subject to intended degree course. Requirements for the Unified State Examination will fluctuate to be in line with the relevant year’s minimum pass rate.",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Rwanda",
+      "qualificationsAccepted": "Ordinary Level Certificate of Education   Rwanda Advanced Certificate of Education / Advanced General Certificate of Secondary Education / Certificat du Cycle Supérieur de l'Enseignement Secondaire",
+      "gradesRequired": "Minimum of 7 overall, minimum of 6 in all subjects. Expect 7 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Saint-Barthélemy",
+      "qualificationsAccepted": "Not listed on UK NARIC – part of Overseas Collectivity of France",
+      "gradesRequired": "Not listed on UK NARIC",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Samoa",
+      "qualificationsAccepted": "Pacific Senior Secondary Certificate (PSSC) Samoa Secondary Leaving Certificate (SSLC)",
+      "gradesRequired": "Minimum of 4 overall, minimum of 5 in all subjects. Expect 4 in Mathematics, English and any other relevant subject to intended degree course|",
+      "ielts": "Yes"
+    },
+    {
+      "name": "San Marino",
+      "qualificationsAccepted": "Not listed on UK NARIC",
+      "gradesRequired": "Not listed on UK NARIC",
+      "ielts": "Yes"
+    },
+    {
+      "name": "São Tomé & Principe",
+      "qualificationsAccepted": "Certidão - Décima Segunda Classe (12th Class Certificate)",
+      "gradesRequired": "Minimum of 12 overall, minimum of 10 in all subjects. Expect 12 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Saudi Arabia",
+      "qualificationsAccepted": "General Secondary Education Certificate",
+      "gradesRequired": "Minimum of 60% overall, minimum of 50% in all subjects. Expect 60% in Mathematics, English and any other relevant subject to intended degree course ",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Senegal",
+      "qualificationsAccepted": "Baccalauréat Diplôme de Bachelier de l'Enseignement du Second Degré",
+      "gradesRequired": "Minimum of 12 overall, minimum of 10 in all subjects. Expect 12 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Serbia",
+      "qualificationsAccepted": "Диплома о положеном завршном испиту / Diploma o položenom završnom ispitu (Diploma of Completed Final Examination) Диплома о положеном матурском испиту / Diploma o položenom maturskom ispitu (Secondary School Leaving Diploma) Диплома о стеченом среднем образованиy / Diploma o stecenom srednem obrazovanju (Diploma of Completed Secondary Education)",
+      "gradesRequired": "Minimum of 8 overall, minimum of 6 in all subjects. Expect 8 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Seychelles",
+      "qualificationsAccepted": "Cambridge Overseas Higher School Certificate",
+      "gradesRequired": "Minimum of 5 A1-C4 grades. Expect C4 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Sierra Leone",
+      "qualificationsAccepted": "GCE A-Level School Certificate / GCE O-Level West African Senior School Certificate (as awarded by the West African Examination Council – WAEC)",
+      "gradesRequired": "Minimum of 5 A1-C6 grades. Expect C6 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Singapore",
+      "qualificationsAccepted": "Singapore / Cambridge GCE O-Level Singapore / Cambridge GCE A-Level",
+      "gradesRequired": "Minimum of 5 A1-C6 grades. Expect C6 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Slovakia",
+      "qualificationsAccepted": "Vysvedčenie o maturitnej skúške (Secondary School Leaving Certificate)",
+      "gradesRequired": "Minimum of 3 overall, minimum of 4 in all subjects. Expect 3 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Slovenia",
+      "qualificationsAccepted": "Maturitetno spričevalo (Matura Certificate)",
+      "gradesRequired": "Minimum of 4 overall, minimum of 3 in all subjects. Expect 4 in Mathematics, English and any other relevant subject to intended degree course\\\\",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Solomon Islands",
+      "qualificationsAccepted": "Pacific Island Secondary Certificate (PSSC) Solomon Islands School Certificate",
+      "gradesRequired": "Minimum of 4 overall, minimum of 6 in all subjects. Expect 5 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Somalia",
+      "qualificationsAccepted": "Shahaadada Dugsiga Sare (Secondary Certificate)",
+      "gradesRequired": "Minimum of 70% overall, minimum of 60% in all subjects. Expect 70% in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "South Africa",
+      "qualificationsAccepted": "Senior Certificate (Matriculation Endorsement) National Senior Certificate",
+      "gradesRequired": "Minimum of 5 overall, minimum of 4 in all subjects. Expect 5 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "South Georgia & The South Sandwich Islands",
+      "qualificationsAccepted": "Not listed on UK NARIC - British Overseas Territory",
+      "gradesRequired": "Not listed on UK NARIC",
+      "ielts": "Yes"
+    },
+    {
+      "name": "South Korea",
+      "qualificationsAccepted": "High School Diploma High School Graduation Equivalency Examination",
+      "gradesRequired": "Minimum of 5 A-C (Su, Wu, or Mi) grades. Expect C (Mi) in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "South Sudan",
+      "qualificationsAccepted": "Sudan School Certificate",
+      "gradesRequired": "Minimum of 5 A-C grades. Expect C in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Spain",
+      "qualificationsAccepted": "Curso de Orientación Universitaria (COU), Título de Bachiller, Título de Graduado en Educación Secundaria Obligatoria (ESO)",
+      "gradesRequired": "Minimum of 6 overall, minimum of 5 in all subjects. Expect 6 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Sri Lanka",
+      "qualificationsAccepted": "Sri Lankan General Certificate of Education (Ordinary Level) Sri Lankan General Certificate of Education (Advanced Level)",
+      "gradesRequired": "Minimum of 5 A-C grades. Expect C in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "St. Helena, Ascension & Tristan da Cunha",
+      "qualificationsAccepted": "Not listed on UK NARIC - British Overseas Territory",
+      "gradesRequired": "Not listed on UK NARIC",
+      "ielts": "Yes"
+    },
+    {
+      "name": "St. Kitts & Nevis",
+      "qualificationsAccepted": "Caribbean Examinations Council Secondary Education Certificate GCE O-Level",
+      "gradesRequired": "Minimum of 5 A-C (I-IV) grades. Expect C (III) in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "No"
+    },
+    {
+      "name": "St. Lucia",
+      "qualificationsAccepted": "Caribbean Examinations Council Secondary Education Certificate",
+      "gradesRequired": "Minimum of 5 A-C (I-IV) grades. Expect C (III) in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "No"
+    },
+    {
+      "name": "St. Maarten",
+      "qualificationsAccepted": "Not listed on UK NARIC - constituent of the Kingdom of the Netherlands",
+      "gradesRequired": "Not listed on UK NARIC",
+      "ielts": "Yes"
+    },
+    {
+      "name": "St. Martin",
+      "qualificationsAccepted": "Not listed on UK NARIC – constituent of the French Republic",
+      "gradesRequired": "Not listed on UK NARIC",
+      "ielts": "Yes"
+    },
+    {
+      "name": "St. Vincent & The Grenadines",
+      "qualificationsAccepted": "Caribbean Examinations Council Secondary Education Certificate",
+      "gradesRequired": "Minimum of 5 A-C (I-IV) grades. Expect C (III) in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "No"
+    },
+    {
+      "name": "Sudan",
+      "qualificationsAccepted": "Sudan School Certificate",
+      "gradesRequired": "Minimum of 5 A-C grades. Expect C in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Suriname",
+      "qualificationsAccepted": "Hoger Algemeen Voortgezet Onderwijs (HAVO) diploma Voorbereidend Wetenschappelijk Onderwijs (VWO) (Gymnasium A/B and Atheneum A/B) diploma",
+      "gradesRequired": "Minimum of 7 overall, minimum of 6 in all subjects. Expect 7 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Sweden",
+      "qualificationsAccepted": "Avgångsbetyg / Slutbetyg från Gymnasieskola (Upper secondary school leaving certificate), Högskoleförberedande examen (Higher Education Preparatory Diploma), Slutbetyg från Grundskola (Compulsory Education Leaving Certificate)",
+      "gradesRequired": "Minimum of 5 A-C (20-15) grades. Expect C (15) in Mathematics, English and any other relevant subject to intended degree course ",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Switzerland",
+      "qualificationsAccepted": "Certificat de Maturité / Certificat de Maturité Cantonal reconnu par la Confédération, Diplôme d’École de Culture Générale, Maturité Cantonale, Diplom der Diplommittelschule, Eidgenössisch anerkanntes kantonales Maturitätszeugnis, Kantonale Maturität, Maturitätsausweis, Attestato di Maturità / Attestato di Maturità Cantonale riconosciuto dalla Confederazione, Diploma di Scuola Cultura Generale, Maturità Cantonale",
+      "gradesRequired": "Minimum of 5 overall, minimum of 4 in all subjects. Expect 5 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Syria",
+      "qualificationsAccepted": "Al-Shahâda al-Thânawiyya al-cThânawiyya al sharciyya (Religious Secondary Certificate) Al Shahâda al-Thânawiyya al-Ämma (General Secondary Certificate)",
+      "gradesRequired": "Minimum of 150 overall, minimum of 120 in all subjects. Expect 150 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Taiwan",
+      "qualificationsAccepted": "Senior High School Leaving certificate",
+      "gradesRequired": "Minimum of 70% overall, minimum of 60% in all subjects. Expect 70% in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Tajikistan",
+      "qualificationsAccepted": "Шаxодатнома дар бораи маълумоти миёна умуми (Certificate of Completed Secondary Education)",
+      "gradesRequired": "Minimum of 4 overall, minimum of 3 in all subjects. Expect 4 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Tanzania",
+      "qualificationsAccepted": "Advanced Certificate of Secondary Education (ASCE) Certificate of Secondary Education / Certificate of Secondary Education Examinaiton (CSEE) Secondary School Leaving Certificate",
+      "gradesRequired": "Minimum of 5 A-C grades. Expect C in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Thailand",
+      "qualificationsAccepted": "Certificate of Secondary Education / Maw 6",
+      "gradesRequired": "Minimum of 2 overall, minimum of 1 in all subjects. Expect 3 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "The Gambia",
+      "qualificationsAccepted": "West African Senior School Certificate",
+      "gradesRequired": "Minimum of 5 A1 – C6 grades, to include Mathematics and English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "The Netherlands",
+      "qualificationsAccepted": "Hoger Algemeen Voortgezet Onderwijs (HAVO) diploma, Voorbereidend Wetenschappelijk Onderwijs (VWO) (Gymnasium A/B and Atheneum A/B) diploma",
+      "gradesRequired": "Minimum of 7 overall, minimum of 6 in all subjects. Expect 7 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Timor Leste (East Timor)",
+      "qualificationsAccepted": "Diploma Ensino Secundário",
+      "gradesRequired": "Minimum of 12 overall, minimum of 10 in all subjects. Expect 12 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Togo",
+      "qualificationsAccepted": "Diplôme de Bachelier de l'Enseignement du Troisième Degré",
+      "gradesRequired": "Minimum of 12 overall, minimum of 10 in all subjects. Expect 12 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Tonga",
+      "qualificationsAccepted": "Pacific Senior Secondary Certificate South Pacific Form Seven Certificate6",
+      "gradesRequired": "Minimum of 5 A/1-C/5 grades. Expect C/4 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Trinidad & Tobago",
+      "qualificationsAccepted": "Caribbean Examinations Council Secondary Education Certificate GCE O-Level",
+      "gradesRequired": "Minimum of 5 A-C grades and minimum Grade IV overall. Expect C in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "No"
+    },
+    {
+      "name": "Tukmenistan",
+      "qualificationsAccepted": "Şahadatnama orta blim hakynda (Certificate of Complete Secondary Education)",
+      "gradesRequired": "Minimum of 4 overall, minimum of 3 in all subjects. Expect 4 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Tunisia",
+      "qualificationsAccepted": "Baccalauréat",
+      "gradesRequired": "Minimum of 12 overall, minimum of 10 in all subjects. Expect 12 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Turkey",
+      "qualificationsAccepted": "Lise Diplomasi (High School Diploma)",
+      "gradesRequired": "Minimum of 60 (3) overall, minimum of 50 (2) in all subjects. Expect 60 (3) in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Turks & Caicos Islands",
+      "qualificationsAccepted": "Caribbean Examinations Council Secondary Education Certificate",
+      "gradesRequired": "Minimum of 5 A-C grades and minimum Grade IV overall. Expect C in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Tuvalu",
+      "qualificationsAccepted": "See \"Kiribati\"",
+      "gradesRequired": "See \"Kiribati\"",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Uganda",
+      "qualificationsAccepted": "Cambridge Overseas Higher School Certificate (COHSC) Cambridge Overseas School Certificate (COSC) East African Advanced Certificate of Education East African Certificate of Education (EACE) Uganda Advanced Certificate of Education (UACE) Uganda Certificate of Education (UCE)",
+      "gradesRequired": "Minimum of 5 A-C grades, or Grades 1-8 and minimum Grade 8 overall. Expect C or Grade 6 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Ukraine",
+      "qualificationsAccepted": "Сертифікат зовнішнього незалежного оцінювання (Certificate of Independent External Examination) Aтестат про повну загальну середню освіту (Certificate of Complete General Secondary Education)",
+      "gradesRequired": "Minimum of 7 overall, minimum of 4 in all subjects. Expect 7 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "United Arab Emirates (UAE)",
+      "qualificationsAccepted": "General Secondary Education Certificate Examination (General / Religious)",
+      "gradesRequired": "Minimum of 70 overall, minimum of 60 in all subjects. Expect 70 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "United Kingdom (UK)",
+      "qualificationsAccepted": "General Certificate of Secondary Education (GCSE), Advanced Level (A Level), Scottish Standard Grades (General or Credit Level), Scottish National 5, Scottish Higher Level",
+      "gradesRequired": "Minimum of 5 A1-C4 (or 9-4) grades. Expect C4 (4) in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "No"
+    },
+    {
+      "name": "United States of America (USA)",
+      "qualificationsAccepted": "United States of America (USA)",
+      "gradesRequired": "Minimum of 5 A-C grades and minimum overall GPA of 2.0. Expect C in Mathematics, English and any other relevant subject to intended degree course Please note that we will take into consideration the results of the General Education Development Test (GED), High School Equivalency Test (HiSET) and Test Assessing Secondary Completion (TASC) but only in conjunction with a High School Graduation Diploma.",
+      "ielts": "No"
+    },
+    {
+      "name": "Uruguay",
+      "qualificationsAccepted": "Título de Bachillerato Diversificado",
+      "gradesRequired": "Minimum of 8 overall, minimum of 6 in all subjects. Expect 7 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Uzbekistan",
+      "qualificationsAccepted": "Akademik Litsey Diplomi (Diploma of Academic Lyceum) O'rta Ma'lumot To'g'risida Shahodatnoma (Certificate of Completed Secondary Education)",
+      "gradesRequired": "Minimum of 70% overall, minimum of 56% in all subjects. Expect 70% in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Vanuatu",
+      "qualificationsAccepted": "Pacific Senior Secondary Certificate",
+      "gradesRequired": "Minimum of 4 overall, minimum of 6 in all subjects. Expect 4 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Venezuela",
+      "qualificationsAccepted": "Título de Bachiller",
+      "gradesRequired": "Minimum of 12 overall, minimum of 10 in all subjects. Expect 12 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Vietnam",
+      "qualificationsAccepted": "Bằng Tốt Nghiệp Phổ Thông Trung Học (Upper Secondary School Graduation Diploma)",
+      "gradesRequired": "Minimum of 7 overall, minimum of 5 in all subjects. Expect 7 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Yemen",
+      "qualificationsAccepted": "General Secondary Education Certificate",
+      "gradesRequired": "Minimum of 70% overall, minimum of 5 in all subjects. Expect 7 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Zambia",
+      "qualificationsAccepted": "School Certificate / General Certificate of Education",
+      "gradesRequired": "Minimum of 6 overall, minimum of 8 in all subjects. Expect 6 in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    },
+    {
+      "name": "Zimbabwe",
+      "qualificationsAccepted": "Cambridge Higher School Certificate Zimbabwe General Certificate of Education at Advanced Level Zimbabwe General Certificate of Education at Ordinary Level",
+      "gradesRequired": "Minimum of 5 A-C grades. Expect C in Mathematics, English and any other relevant subject to intended degree course",
+      "ielts": "Yes"
+    }
+  ]
+}
